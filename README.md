@@ -1,2 +1,9 @@
-# ml--effects-of-drugs-Abuse-on-academic-performance-A-comparative-analysis
-A machine learning project on the effects of drugs Abuse on academic performance.
+# Drugs abuse vs academic performance machine learning project
+## scope
+A machine learning study to the effects of drugs abuse on academic performance
+
+## Installation
+to reproduce the project, follow these steps
+
+## contribution
+if you want to contribute to this project, pleace contact horry nobel
